@@ -254,4 +254,8 @@ display: flex;
    position: absolute;
 }
 
+.baton{
+   border-radius: 10%;
+}
+
 
