@@ -1,0 +1,257 @@
+
+
+.azeret-mono-normal, .title-1 {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 800px;
+}
+body{
+
+}
+.title-1{
+    font-size: 48px;
+    text-align: center;
+    padding-top: 32px;
+}
+/* background */
+
+
+.section-1{
+    display: block;
+    background-image: url("../styles/assets/Hero-bg.png");
+    background-position: center;
+}
+.img-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+/* 
+.banner-content{
+    display: flex;
+    justify-content: center;
+} */
+.Paragraph-1{
+text-align: center;
+
+}
+.banner{
+display: flex;
+justify-content: space-between;
+}
+.H20{
+    gap: 5%;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.Button{
+background-color: rgb(13, 19, 33);
+color: white;
+margin-left: 660px;
+margin-bottom: 45px;
+border-radius: 5px;
+font-size: 20px;
+font-weight: 600px;
+padding: 16px 24px;
+}
+
+/* Section-2 */
+
+ .Title{
+    text-align: center;
+    margin-top: 170px;
+ }
+
+ .Sub-title{
+    text-align: center;
+    font-size: 16px;
+ }
+
+ .Dark-2{
+color: #0D1321;
+ }
+ .Card-title{
+font-size: 24px;
+font-weight: bold;
+color: #0D1321;
+ }
+
+ .Card-subtitle{
+font-size: 16px;
+font-weight: 600px;
+color: #0D1321;
+ }
+
+ .Card-1{
+display: flex;
+margin: 107px 200px 80px 293px;
+ }
+ .Card-2{
+    display: flex;
+    margin: 80px 293px 80px 260px;
+ }
+
+ .Image-1{
+    margin-left: 400px;
+ }
+ .Btn{
+    padding: 17px 17px 17px 17px;
+    background-color: white;
+    border: solid black 2px;
+    margin: auto;
+ }
+.Card-3{
+    display: flex;
+    margin: 107px 200px 80px 293px;
+ }
+
+ .Video-Title{
+text-align: center;
+margin-top: 170px;
+ }
+
+ .Vid{
+    margin-left: 450px;
+    width: 600px;
+    height: 300px;
+    margin-bottom: 160px;
+ }
+
+
+ .Goggles{
+    text-align: center;
+ font-weight: bolder;
+ font-size: 32px;
+}
+ .goggles{
+    text-align: center;
+    font-size: 16px;
+ }
+
+ 
+
+
+ .Biggest-div{
+    display: flex;
+    margin: 48px 150px 111px 150px;
+    
+   
+ }
+
+ div li{
+    list-style: none;
+    margin-right: 90px;
+    margin-left:90px;
+ }
+
+
+ .suii{
+    margin-bottom: 9px;
+ }
+
+ .Colourful{
+    background-color: #f2f7ff;
+    
+ }
+
+ .colorless{
+    background-color: #ffefe7;
+ }
+
+ .colormew{
+    background-color: #ffffde;
+ }
+ 
+ 
+ 
+ /* .section-1{
+    display: block;
+    background-image: url("../styles/assets/Hero-bg.png");
+    background-position: center;} */
+
+.class-1{
+    /* display: block; */
+    background-image: url("../styles/assets/handshake.jpg");
+    background-position: center;
+    padding: 190px 120px 120px 120px;
+    margin: 50px 150px 80px 150px;
+    background-repeat: no-repeat;
+    
+}
+
+.feedback{
+    padding: 10px 10px 10px 9px ;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 240px;
+}
+
+
+.huh, .hah{
+    color: white;
+}
+
+.huh{
+font-size: 32px;
+font-weight: bold;
+}
+
+.hah{
+    font-size:16px;
+    margin-bottom: 39px;
+}
+
+.nn{
+margin-left: 16px;
+}
+
+.boom{
+display: flex;
+}
+
+
+/* .azeret-mono-normal-2{
+   font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 700px;
+} */
+
+
+.Yush{
+   text-align: left;
+   margin-left: 150px;
+   font-size: 20px;
+   font-weight: 600px;
+}
+
+.Ben-Azlard{
+   display: flex;
+}
+
+.Raiyan{
+   justify-content: space-between;
+   margin-left: 250px;
+   margin-bottom: 32px;
+}
+
+
+.huh, .hah{
+   text-align: center;
+}
+
+
+.nn{
+   margin-left: 3px;
+}
+
+
+.Button{
+   position: absolute;
+}
+
+
